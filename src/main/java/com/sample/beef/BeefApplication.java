@@ -10,6 +10,7 @@ public class BeefApplication {
 		SpringApplication.run(BeefApplication.class, args);
 		System.out.println("Dragon");
 		System.out.println("Ajay");
+		System.out.println("Rabika");
 	}
 
 }
