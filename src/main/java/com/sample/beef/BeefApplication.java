@@ -11,6 +11,9 @@ public class BeefApplication {
 		System.out.println("Dragon");
 		System.out.println("Ajay");
 		System.out.println("Rabika");
+		for (int i = 0; i<4; i++){
+			System.out.println("Rabika");
+		}
 	}
 
 }
